@@ -1,0 +1,21 @@
+# Project-specific
+build/
+
+# OSX
+.DS_Store
+Icon
+._*
+.Spotlight-V100
+
+# Vim
+.*.sw[a-z]
+*.un~
+Session.vim
+.netrwhist
+
+# WebStrom / IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+
